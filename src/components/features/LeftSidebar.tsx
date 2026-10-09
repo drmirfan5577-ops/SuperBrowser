@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Globe, Clock, BookmarkPlus, Rss, Bot, BookOpen, Mosque, Users, Cpu, Gamepad2, TrendingUp, FlaskConical } from 'lucide-react';
+import { Globe, Clock, BookmarkPlus, Rss, Bot, BookOpen, Users, Cpu, Gamepad2, TrendingUp, FlaskConical } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 interface LeftSidebarProps {
